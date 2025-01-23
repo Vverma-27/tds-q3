@@ -27,5 +27,5 @@ jobs:
     - name: Run tests
       run: npm test
 
-    - name: Notify 23f3003196@ds.study.iitm.ac.in
+    - name: 23f3003196@ds.study.iitm.ac.in
       run: echo "This step is named after your email address for demonstration purposes."
